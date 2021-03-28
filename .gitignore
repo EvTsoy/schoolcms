@@ -1,0 +1,13 @@
+october_cms/node_modules
+october_cms/public/hot
+october_cms/public/storage
+october_cms/storage/*.key
+october_cms/vendor
+october_cms/.env
+october_cms/.env.backup
+october_cms/.phpunit.result.cache
+october_cms/docker-compose.override.yml
+october_cms/Homestead.json
+october_cms/Homestead.yaml
+october_cms/npm-debug.log
+october_cms/yarn-error.log
